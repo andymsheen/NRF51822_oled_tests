@@ -74,8 +74,8 @@ void setup()   {
   // Show image buffer on the display hardware.
   // Since the buffer is intialized with an Adafruit splashscreen
   // internally, this will display the splashscreen.
-  display.display();
-  delay(2000);
+ // display.display();
+ // delay(2000);
 
   // Clear the buffer.
   display.clearDisplay();
